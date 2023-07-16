@@ -42,11 +42,11 @@ function View() {
       <p>
         The code for this app is available at{' '}
         <a
-          href="https://github.com/GMOD/jbrowse-components/tree/main/embedded_demos/jbrowse-react-circular-genome-view"
+          href="https://github.com/GMOD/jbrowse-react-circular-genome-view-cra4-demo"
           target="_blank"
           rel="noreferrer"
         >
-          https://github.com/GMOD/jbrowse-components/tree/main/embedded_demos/jbrowse-react-circular-genome-view
+          https://github.com/GMOD/jbrowse-react-circular-genome-view-cra4-demo
         </a>
         .
       </p>
